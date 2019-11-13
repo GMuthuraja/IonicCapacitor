@@ -3,6 +3,6 @@
   "appName": "capacitorApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "www",
+  "webDir": "src",
   "cordova": {}
 }
